@@ -163,11 +163,11 @@
                     </p>
                     <p class="font-bold text-red-600 text-2xl">Key Rules for the Competition Period (11:00 AM - 4:00 PM):</p>
                     <ul class="list-disc space-y-3 pl-6">
-                        <li class="font-medium">The competition period is strictly **closed-book** and requires individual effort.</li>
-                        <li class="font-medium">No external resources, including **calculators, phones, notes, or digital reference materials**, are permitted.</li>
-                        <li class="font-medium">**External assistance** or collaboration is prohibited during the 5-hour duration.</li>
-                        <li class="font-medium">All solutions must be clearly demonstrated **step-by-step** to receive full credit.</li>
-                        <li class="font-medium">Submissions must be finalized and uploaded precisely by the **4:00 PM deadline**.</li>
+                        <li class="font-medium">The competition period is strictly closed-book and requires individual effort.</li>
+                        <li class="font-medium">No external resources, including calculators, phones, notes, or digital reference materials, are permitted.</li>
+                        <li class="font-medium">External assistance or collaboration is prohibited during the 5-hour duration.</li>
+                        <li class="font-medium">All solutions must be clearly demonstrated step-by-step to receive full credit.</li>
+                        <li class="font-medium">Submissions must be finalized and uploaded precisely by the 4:00 PM deadline.</li>
                     </ul>
                 </div>
             </section>
@@ -175,7 +175,7 @@
             <!-- 3. OLYMPIAD TOPICS SECTION (Accordion) -->
             <section id="topics-section" class="bg-white p-8 rounded-xl shadow-2xl border-t-8 border-red-600">
                 <h2 class="text-4xl font-extrabold text-gray-900 mb-8">Olympiad Topics</h2>
-                <p class="text-xl text-gray-700 mb-6">The challenge covers five distinct fields of mathematics. Click on any topic to reveal its focus area and core themes.</p>
+                <p class="text-xl text-gray-700 mb-6">The challenge covers five distinct fields of mathematics.</p>
                 
                 <!-- Topics Accordion Container - Only the nested items are collapsible -->
                 <div id="topics-accordion" class="space-y-4">
@@ -185,11 +185,11 @@
             
             <!-- 4. MATERIAL HYPERLINK SECTION (Start Button) -->
             <section id="material-section" class="bg-white p-8 rounded-xl shadow-2xl border-t-8 border-gray-900 text-center">
-                <h2 class="text-4xl font-extrabold text-gray-900 mb-6">Start The Challenge</h2>
-                <p class="text-xl text-gray-700 mb-8">Access all necessary questions below. **Note: Do not open this link until 11:00 AM.**</p>
+                <h2 class="text-4xl font-extrabold text-gray-900 mb-6">Solutions</h2>
+                <p class="text-xl text-gray-700 mb-8">Access the solutions on Monday 17th of November</p>
                 <a href="https://example.com/olympiad-material" target="_blank" class="inline-block group">
                     <button class="bg-red-600 text-white font-extrabold py-4 px-16 rounded-full shadow-2xl transition duration-300 transform group-hover:scale-105 group-hover:bg-red-700 group-hover:shadow-red-400/50">
-                        Access Questions Link
+                        Access solutions
                     </button>
                 </a>
             </section>
